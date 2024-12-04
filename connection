@@ -1,0 +1,14 @@
+curl -x socks5://username:password@127.0.0.1:3000 https://httpbin.org/get 
+{
+"args": {}, 
+"headers": {
+	"Accpet":"*/*", 
+	"Host":"httpbin.org", 
+	"User-Agent": "curl/7.67.0", 
+	"X-Amzn-Trace-Id": "Root=1-600044b0-2aacc34b25e316d2c5400c02f"
+	
+	
+	}, 
+"origin":"192.168.15.5", 
+"url": "https.org/get"
+}
